@@ -72,10 +72,5 @@ namespace testConsoleApp
             }
 
         }
-
-        public static void test()
-        {
-            return;
-        }
     }
 }
